@@ -1,0 +1,168 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.tride {
+    width: 100%;
+    max-width: 104px;
+}
+
+.first-div {
+    background: #E7EEFF;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    width: 104px;
+    gap: 24px;
+    padding: 12px 28px 708px 28px;
+}
+
+.second-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+    border-bottom: 1px solid #002B81;
+}
+
+.tablet {
+    gap: 24px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-div {
+    justify-content: space-between;
+    max-width: 1336px;
+    width: 100%;
+    display: flex;
+    background: #E7EEFF;
+    align-self: center;
+    padding: 20px 0px;
+}
+
+.food {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.marta {
+    display: flex;
+}
+.search {
+    width: 100%;
+}
+#novatori {
+    width: 326px;
+    border: none;
+    background: none;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+}
+
+
+
+#novatori::placeholder {
+    color: #000;
+    font-size: 16px;
+}
+
+
+.first {
+    width: 194px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.vigoda {
+    font-size: 16px;
+    color: #5E6577;
+}
+
+
+.main-div {
+    display: flex;
+    justify-content: center;
+}
+
+.main-second {
+    gap: 30px;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    max-width: 1144px;
+    margin-top: 42px;
+}
+
+.div--main {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 24px 8px 12px;
+    border-radius: 16px;
+    background-color: #E7EEFF;
+    width: 176px;
+}
+
+.hotels {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 24px 8px 12px;
+    border-radius: 16px;
+    background-color: #E7EEFF;
+    width: 140px;
+}
+
+.Group {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 24px 8px 12px;
+    border-radius: 16px;
+    background-color: #E7EEFF;
+    width: 120px;
+}
+
+
+.first-photo-div {
+    margin-top: 42px;
+    display: flex;
+    justify-content: center;
+}
+
+.photo-second-div {
+    max-width: 1144px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.png {
+    display: flex;
+}
+
+.photo {
+    padding: 8px 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 0px 0px 24px 24px;
+    background-color: #E7EEFF;
+    gap: 4px;
+}
+
+.sevaidu {
+    display: ;
+    color: #606060;
+}
